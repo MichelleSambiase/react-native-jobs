@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "react_native_jobs",
+    "slug": "react_native_jobs",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "cb2654ae-fcc5-44db-95bc-58dacb0e1770"
+      }
+    },
+    "android": {
+      "package": "com.michellesambiase.react_native_jobs"
+    }
+  }
+}
